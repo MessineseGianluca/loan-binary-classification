@@ -1,6 +1,6 @@
 # loan-binary-classification
 A relatively young bank is growing rapidly in terms of overall customer acquisition. Majority of these are Liability customers with
-varying sizes of relationship with the bank. The customer base of Asset customers is quite small, and the bank WANTS to grow this base
+varying sizes of relationship with the bank. The customer base of Asset customers is quite small, and the bank wants to grow this base
 rapidly to bring in more loan business. Specifically, it wants to explore ways of converting its liability customers to Personal Loan
 customers.
 A campaign the bank ran for liability customers last year showed a healthy conversion rate of over 9% successes. This has encouraged the
