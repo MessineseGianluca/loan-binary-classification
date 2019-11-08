@@ -33,7 +33,6 @@ def get_rndm_balanced_data():
 def build_model():
     network = Sequential()
     network.add(Dense(32, input_shape=(14,), activation='relu'))
-    network.add(Dense(16, input_shape=(32,), activation='relu'))
     network.add(Dense(1, activation='sigmoid'))
     network.compile(loss='binary_crossentropy', optimizer='rmsprop', metrics=['acc'])
 
